@@ -1,0 +1,2 @@
+# SpringCloudConfig_test
+测试SpringCloudConfig组件
